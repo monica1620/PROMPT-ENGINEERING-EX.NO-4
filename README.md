@@ -49,7 +49,7 @@ Prompt Size Limitations:
 __Output__
 
 
-[Ex4_Prompt_Types_Evaluation.docx](https://github.com/user-attachments/files/25566769/Ex4_Prompt_Types_Evaluation.docx)
+(uploaded on top)
 
 
 
